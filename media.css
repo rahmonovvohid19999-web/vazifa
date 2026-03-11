@@ -66,4 +66,11 @@
     .surat{
         width: 80%;
     }
+    .boxer1{
+        flex-direction: column;
+    }
+    .cont6{
+        margin-top: 400px;
+        text-align: center;
+    }
 }
