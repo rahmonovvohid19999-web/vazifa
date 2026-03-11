@@ -47,4 +47,7 @@
     .ali{
         display: none;
     }
+    .lik{
+        flex-direction: column;
+    }
 }

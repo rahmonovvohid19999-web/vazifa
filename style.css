@@ -171,4 +171,19 @@ hr{
     display: flex;
     justify-content: space-evenly;
 }
-
+.mon{
+    width: 350px;
+    height: 380px;
+}
+.lik{
+    display: flex;
+    justify-content:center;
+    gap: 40px;
+    align-items: center;
+    margin-top: 50px;
+}
+.cont4{
+    color: #023047;
+    text-align: center;
+    padding: 40px;
+}
