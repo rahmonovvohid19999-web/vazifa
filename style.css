@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.text{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    
+
+}
+.logo{
+display: none;
+}

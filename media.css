@@ -1,0 +1,14 @@
+@media(max-width:650px){
+    .logo{
+        display: block;
+    }
+    .text{
+        display: none;
+    }
+    .header{
+        background-color: gray;
+        margin-top: 0;
+        justify-content: space-between;
+        padding: 20px;
+    }
+}
