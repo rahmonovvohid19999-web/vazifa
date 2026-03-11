@@ -5,7 +5,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 50px;
+    margin: 20px;
 }
 .text{
     display: flex;
@@ -17,3 +17,50 @@
 .logo{
 display: none;
 }
+.all{
+    background-image: url(./01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 710px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+
+}
+.all h1{
+    font-size: 60px;
+    font-family: serif;
+    
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.bnt1{
+    width: 207px;
+    height: 56px;
+    background-color: #FB8500;
+    color: white;
+    border:#FB8500 1px solid ;
+    border-radius: 12px;
+    
+}
+.bnt2{
+    width: 234px;
+    height: 56px;
+    background-color:;
+    color:#FB8500 ;
+    border: none;
+    border-radius: 12px;
+}
+.all p{
+    font-size: 20px;
+}
+.foto{
+    margin-top: 100px;
+}
+

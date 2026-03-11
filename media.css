@@ -6,9 +6,17 @@
         display: none;
     }
     .header{
-        background-color: gray;
+        
         margin-top: 0;
         justify-content: space-between;
         padding: 20px;
+        
+
+    }
+    .btn{
+        flex-direction: column;
+    }
+    .bnt1, .bnt2{
+        width: 100%;
     }
 }
