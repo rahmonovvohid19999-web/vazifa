@@ -30,5 +30,11 @@
     .cont{
         height: 800px;
     }
+    .cont2{
+        background-position: center;
+    }
+    .cont2 h1{
+        font-size: 40px;
+    }
     
 }
