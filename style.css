@@ -187,3 +187,29 @@ hr{
     text-align: center;
     padding: 40px;
 }
+.cont5{
+    background-image: url(./99.png);
+    height: 618px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center  ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.cont5 h1{
+    font-size: 70px;
+}
+.cont5 p{
+    font-size: 30px;
+}
+.surat{
+    width: 255px;
+    height: 160px;
+}
+.call{
+    display: flex;
+    justify-content: space-evenly;
+    
+}

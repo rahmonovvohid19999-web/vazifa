@@ -50,4 +50,20 @@
     .lik{
         flex-direction: column;
     }
+    .cont5{
+        height: 150vh;
+        background-position: center;
+        margin-top: 100px;
+    }
+    .cont5 h1{
+        font-size: 30px;
+    }
+    .call{
+       flex-direction: column;
+       gap: 30px;
+       
+    }
+    .surat{
+        width: 80%;
+    }
 }
