@@ -39,5 +39,12 @@
     .photo1{
         margin-left: 50px;
     }
-    
+    .cont3{
+        background-position: center;
+        align-items: center;
+        height: 600px;
+    }
+    .ali{
+        display: none;
+    }
 }

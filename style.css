@@ -154,4 +154,21 @@ hr{
     color: #023047B2;
     font-size: 30px;
 }
+.cont3{
+    height: 1000px;
+    background-image: url(./bf8a40060807c258cf8e59f06ca2bac424b8729c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+}
+.oll{
+    display: flex;
+    justify-content: space-evenly;
+}
 
