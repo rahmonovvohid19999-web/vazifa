@@ -73,4 +73,14 @@
         margin-top: 400px;
         text-align: center;
     }
+    .footer{
+        margin-top: 400px;
+        background-position: center;
+    }
+    .footer input{
+        width: 90%;
+    }
+    .footer button{
+        width: 90%;
+    }
 }

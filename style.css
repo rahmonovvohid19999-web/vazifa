@@ -266,3 +266,46 @@ hr{
 .cont6 p{
     color: #000000B2;
 }
+.footer{
+    height: 1000px;
+    background-image: url(./7307fe493664d5f79db95077465ecd723d6175bf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.footer input{
+    width: 40%;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 15px;
+    border-radius: 12px;
+    border: none;
+    
+}
+.chek{
+    display: flex;
+    align-items: center;
+   
+
+}
+#check{
+    width: 40px;
+    height: 30px;
+   color: #FB8500;
+}
+.footer button{
+    width: 41%;
+    height: 50px;
+    background-color: #FB8500;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 12px;
+}
+
