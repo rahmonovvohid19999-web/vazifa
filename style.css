@@ -308,4 +308,17 @@ hr{
     border: none;
     border-radius: 12px;
 }
-
+.footer1{
+    background-color: #023047;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 40px;
+}
+.texet{
+    display: flex;
+    gap: 10px;
+}
