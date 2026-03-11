@@ -63,4 +63,36 @@ display: none;
 .foto{
     margin-top: 100px;
 }
+.cont{
+    background-color: #F7F8FA;
+    height: 650px;
+    text-align: center;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px;
+}
+
+.Lk{
+    font-size: 80px;
+}
+.box{
+    width: 30%;
+    height: 296px;
+    
+}
+.boxer{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.blue{
+    color: #219EBC;
+    font-size: 20px;
+}
+.box p{
+    color: #02304766;
+}
 
